@@ -1,0 +1,17 @@
+{
+    "name": "alber/api",
+    "autoload": {
+        "psr-4": {
+            "Alber\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlbertoRamirez564",
+            "email": "ezequiel.ramirez9064@alumnos.udg.mx"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
